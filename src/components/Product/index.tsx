@@ -21,8 +21,8 @@ const Product = ({
   <Card>
     <img src={image} alt={title} />
     <Info>
-      {information.map((info) => (
-        <Tag key={info}>{information}</Tag>
+      {information.map((information) => (
+        <Tag key={information}>{information}</Tag>
       ))}
     </Info>
     <Titulo>{title}</Titulo>

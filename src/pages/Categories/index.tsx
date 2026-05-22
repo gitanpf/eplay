@@ -11,7 +11,7 @@ const promocoes: Game[] = [
     information: ['10%', 'R$ 250,00'],
     system: 'Switch',
     title: 'Legend Of Zelda'
-  }
+  },
   {
     id: 2,
     category: 'Ação',
@@ -20,7 +20,7 @@ const promocoes: Game[] = [
     information: ['10%', 'R$ 250,00'],
     system: 'Switch',
     title: 'Legend Of Zelda'
-  }
+  },
   {
     id: 3,
     category: 'Ação',
@@ -29,7 +29,7 @@ const promocoes: Game[] = [
     information: ['10%', 'R$ 250,00'],
     system: 'Switch',
     title: 'Legend Of Zelda'
-  }
+  },
   {
     id: 4,
     category: 'Ação',
@@ -50,7 +50,7 @@ const emBreve: Game[] = [
     information: ['10%', 'R$ 250,00'],
     system: 'Switch',
     title: 'Legend Of Zelda'
-  }
+  },
   {
     id: 6,
     category: 'Ação',
@@ -59,7 +59,7 @@ const emBreve: Game[] = [
     information: ['10%', 'R$ 250,00'],
     system: 'Switch',
     title: 'Legend Of Zelda'
-  }
+  },
   {
     id: 7,
     category: 'Ação',
@@ -68,46 +68,7 @@ const emBreve: Game[] = [
     information: ['10%', 'R$ 250,00'],
     system: 'Switch',
     title: 'Legend Of Zelda'
-  }
-  {
-    id: 8,
-    category: 'Ação',
-    description: 'Lorem',
-    image: zelda,
-    information: ['10%', 'R$ 250,00'],
-    system: 'Switch',
-    title: 'Legend Of Zelda'
-  }
-]
-
-const emBreve: Game[] = [
-  {
-    id: 5,
-    category: 'Ação',
-    description: 'Lorem',
-    image: zelda,
-    information: ['10%', 'R$ 250,00'],
-    system: 'Switch',
-    title: 'Legend Of Zelda'
-  }
-  {
-    id: 6,
-    category: 'Ação',
-    description: 'Lorem',
-    image: zelda,
-    information: ['10%', 'R$ 250,00'],
-    system: 'Switch',
-    title: 'Legend Of Zelda'
-  }
-  {
-    id: 7,
-    category: 'Ação',
-    description: 'Lorem',
-    image: zelda,
-    information: ['10%', 'R$ 250,00'],
-    system: 'Switch',
-    title: 'Legend Of Zelda'
-  }
+  },
   {
     id: 8,
     category: 'Ação',
